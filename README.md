@@ -10,7 +10,7 @@ The following is the pseudocode:
 Afterwards, the paper implements the pseudocode and conduct experiments on public datasets to test the performance of the algorithm. By adjusting the values of each parameter, the impact of each parameter on the accuracy of the model under the premise of privacy protection will be further analyzed.
 
 
-Reference:
+Reference:  
 [1] Dong, A. Roth, and W. Su. Gaussian differential privacy. [J] Journal of the Royal Statistical Society: Series B (with discussion), 2022：5-29. https://doi.org/10.1111/rssb.12455  
 [2] Cynthia Dwork. "Differential Privacy: A Survey of Results." [J]International Conference on Theory and Applications of Models of Computation Springer, Berlin, Heidelberg, 2008: 112-126.  
 [3] Cynthia Dwork, Aaron Roth, et al. 2014. The algorithmic foundations of differential privacy. [J] Foundations and Trends® in Theoretical Computer Science 9, 3–4 (2014):211–407.
